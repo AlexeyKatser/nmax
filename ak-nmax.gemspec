@@ -1,9 +1,8 @@
 Gem::Specification.new do |s|
-  s.name        = 'nmax'
-  s.version     = '0.1.2'
-  s.executables << 'nmax'
-  s.date        = '2019-10-07'
-  s.summary     = "nmax"
+  s.name        = 'ak-nmax'
+  s.version     = '0.1.0'
+  s.executables << 'ak-nmax'
+  s.date        = '2019-11-15'
   s.description = "Gets n max numbers from input stream"
   s.authors     = ["Alexey Katser"]
   s.email       = 'riviero@mail.ru'
