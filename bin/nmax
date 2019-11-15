@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'nmax'
+
+n = ARGV.first.to_i
+
+#file = $stdin.read
+
+Nmax.run n
