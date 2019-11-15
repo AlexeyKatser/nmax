@@ -1,6 +1,6 @@
 require 'rspec'
 
-require 'nmax'
+require 'ak-nmax'
 
 RSpec.describe Nmax do
 
