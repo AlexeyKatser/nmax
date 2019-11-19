@@ -1,6 +1,6 @@
 # Nmax
 
-[![Build Status](https://travis-ci.org/alexeykatser/ak-nmax.svg?branch=master)](https://travis-ci.org/alexeykatser/ak-nmax)
+[![Build Status](https://travis-ci.org/alexeykatser/nmax.svg?branch=master)](https://travis-ci.com/AlexeyKatser/nmax)
 
 ## Описание
 Скрипт nmax, который делает следующее:
