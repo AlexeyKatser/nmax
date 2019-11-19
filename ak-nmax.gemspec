@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'ak-nmax'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.executables << 'ak-nmax'
   s.date        = '2019-11-15'
   s.summary     = 'RUN!'
